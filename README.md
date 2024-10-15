@@ -135,7 +135,7 @@ Contributions are welcome! If you'd like to add features or improve the project,
 ## **Contact**
 For questions or feedback, please reach out to:  
 - **Your Name**: Bruce Fernandes  
-- **Email**: your-email@example.com  
+- **Email**: brucefernades48@gmail.com  
 
 ---
 
